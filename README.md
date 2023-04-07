@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **limiu82214/limiu82214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Nimo's github stats](https://github-readme-stats.vercel.app/api?username=limiu82214&hide=contribs,prs&theme=radical&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limiu82214&theme=radical)  
